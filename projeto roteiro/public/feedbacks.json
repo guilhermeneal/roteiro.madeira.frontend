@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "João Silva",
+    "rating": 5,
+    "date": "2026-04-10",
+    "comment": "Experiência incrível! As levadas foram magníficas e o guia foi muito profissional.",
+    "category": "trilho"
+  },
+  {
+    "id": 2,
+    "name": "Maria Santos",
+    "rating": 4,
+    "date": "2026-04-08",
+    "comment": "O almoço típico foi delicioso, mas o serviço podia ser mais rápido.",
+    "category": "gastronomia"
+  },
+  {
+    "id": 3,
+    "name": "Pedro Costa",
+    "rating": 5,
+    "date": "2026-04-05",
+    "comment": "A visita às casas típicas de Santana foi inesquecível. Recomendo vivamente!",
+    "category": "cultura"
+  },
+  {
+    "id": 4,
+    "name": "Ana Rodrigues",
+    "rating": 5,
+    "date": "2026-04-03",
+    "comment": "Viagem de catamarã fantástica! Vimos golfinhos e a paisagem era deslumbrante.",
+    "category": "natureza"
+  },
+  {
+    "id": 5,
+    "name": "Carlos Ferreira",
+    "rating": 4,
+    "date": "2026-04-01",
+    "comment": "O trilho do Pico do Areeiro é desafiador mas as vistas valem cada passo.",
+    "category": "trilho"
+  },
+  {
+    "id": 6,
+    "name": "Sofia Martins",
+    "rating": 5,
+    "date": "2026-03-28",
+    "comment": "Volta à ilha muito bem organizada. O guia conhecia todos os segredos da Madeira.",
+    "category": "cultura"
+  }
+]

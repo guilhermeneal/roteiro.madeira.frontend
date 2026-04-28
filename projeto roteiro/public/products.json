@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Trilho Pico do Areeiro",
+    "category": "natureza",
+    "price": 79.99,
+    "stock": 5,
+    "image": "/images/Pico-do-Areeiro-Isla-Madeira.jpg",
+    "description": "Uma caminhada inesquecível entre os picos mais altos da ilha com vistas deslumbrantes."
+  },
+  {
+    "id": 2,
+    "name": "Almoço com pratos típicos",
+    "category": "gastronomia",
+    "price": 89.99,
+    "stock": 12,
+    "image": "/images/lapas.jpg",
+    "description": "Saboreie o melhor da gastronomia regional com lapas grelhadas e outros pratos típicos."
+  },
+  {
+    "id": 3,
+    "name": "Praia do Garajau",
+    "category": "natureza",
+    "price": 24.99,
+    "stock": 50,
+    "image": "/images/garajau.jpeg",
+    "description": "Visite a reserva natural do Garajau e desfrute de um mergulho em águas cristalinas."
+  },
+  {
+    "id": 4,
+    "name": "Viagem de catamarã",
+    "category": "natureza",
+    "price": 49.99,
+    "stock": 25,
+    "image": "/images/golfinhos.jpeg",
+    "description": "Observe golfinhos e baleias no seu habitat natural nesta viagem relaxante."
+  },
+  {
+    "id": 5,
+    "name": "Visita a Santana",
+    "category": "cultura",
+    "price": 129.99,
+    "stock": 8,
+    "image": "/images/santana.jpg",
+    "description": "Conheça as famosas casas típicas de Santana e a herança cultural da Madeira."
+  },
+  {
+    "id": 6,
+    "name": "Volta à Ilha",
+    "category": "cultura",
+    "price": 69.99,
+    "stock": 20,
+    "image": "/images/Ilha-da-Madeira-Camara-dos-Lobos-2-1.jpg",
+    "description": "Um tour completo pelos pontos mais emblemáticos da ilha da Madeira."
+  }
+]

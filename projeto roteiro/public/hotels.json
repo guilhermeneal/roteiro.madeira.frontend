@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Quinta da Bela Vista",
+    "category": "luxo",
+    "price": 180,
+    "image": "/images/Hotel-Quinta-da-Bela-Vista.jpg",
+    "stars": 5,
+    "location": "Funchal",
+    "available": true,
+    "amenities": ["piscina", "spa", "restaurante", "wifi"],
+    "description": "Hotel de luxo com vistas panorâmicas para o mar e montanhas."
+  },
+  {
+    "id": 2,
+    "name": "Pestana CR7 Funchal",
+    "category": "moderno",
+    "price": 150,
+    "image": "/images/Pestana-CR7-Funchal.jpg",
+    "stars": 4,
+    "location": "Funchal",
+    "available": true,
+    "amenities": ["piscina", "ginásio", "restaurante", "wifi"],
+    "description": "Hotel moderno no centro de Funchal com design exclusivo."
+  },
+  {
+    "id": 3,
+    "name": "Eco Hotel Madeira",
+    "category": "ecológico",
+    "price": 90,
+    "image": "/images/Eco-Hotel-Madeira.jpg",
+    "stars": 3,
+    "location": "Santana",
+    "available": true,
+    "amenities": ["piscina", "restaurante", "wifi", "jardim"],
+    "description": "Hotel ecológico rodeado de natureza, perfeito para relaxar."
+  },
+  {
+    "id": 4,
+    "name": "Royal Savoy Hotel",
+    "category": "luxo",
+    "price": 220,
+    "image": "/images/Royal-Savoy-Hotel.jpg",
+    "stars": 5,
+    "location": "Funchal",
+    "available": true,
+    "amenities": ["piscina", "spa", "restaurante", "wifi", "praia privada"],
+    "description": "Resort de luxo com acesso direto à praia e serviço premium."
+  },
+  {
+    "id": 5,
+    "name": "Pousada da Juventude",
+    "category": "económico",
+    "price": 35,
+    "image": "/images/Pousada-da-Juventude.jpg",
+    "stars": 2,
+    "location": "Machico",
+    "available": true,
+    "amenities": ["cozinha", "wifi", "sala de estar"],
+    "description": "Alojamento económico ideal para viajantes jovens e grupos."
+  }
+]

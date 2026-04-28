@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Fiat 500",
+    "category": "económico",
+    "price": 35,
+    "image": "/images/Fiat-500.jpg",
+    "seats": 4,
+    "transmission": "manual",
+    "fuel": "gasolina",
+    "available": true,
+    "description": "Carro perfeito para explorar a Madeira, económico e fácil de estacionar."
+  },
+  {
+    "id": 2,
+    "name": "Volkswagen Golf",
+    "category": "compacto",
+    "price": 45,
+    "image": "/images/Volkswagen-Golf.jpg",
+    "seats": 5,
+    "transmission": "automático",
+    "fuel": "diesel",
+    "available": true,
+    "description": "Confortável e espaçoso, ideal para famílias ou grupos pequenos."
+  },
+  {
+    "id": 3,
+    "name": "Toyota RAV4",
+    "category": "SUV",
+    "price": 65,
+    "image": "/images/Toyota-RAV4.jpg",
+    "seats": 5,
+    "transmission": "automático",
+    "fuel": "híbrido",
+    "available": true,
+    "description": "SUV versátil perfeito para as estradas montanhosas da Madeira."
+  },
+  {
+    "id": 4,
+    "name": "Mercedes Classe C",
+    "category": "luxo",
+    "price": 95,
+    "image": "/images/Mercedes-Classe-C.jpg",
+    "seats": 5,
+    "transmission": "automático",
+    "fuel": "diesel",
+    "available": true,
+    "description": "Conforto premium para uma experiência de condução excepcional."
+  },
+  {
+    "id": 5,
+    "name": "Jeep Wrangler",
+    "category": "SUV",
+    "price": 85,
+    "image": "/images/Jeep-Wrangler.jpg",
+    "seats": 4,
+    "transmission": "automático",
+    "fuel": "gasolina",
+    "available": true,
+    "description": "Perfeito para aventuras off-road nas levadas da Madeira."
+  },
+  {
+    "id": 6,
+    "name": "Renault Clio",
+    "category": "económico",
+    "price": 30,
+    "image": "/images/Renault-Clio.jpg",
+    "seats": 5,
+    "transmission": "manual",
+    "fuel": "gasolina",
+    "available": true,
+    "description": "Opção económica com bom espaço para bagagem."
+  }
+]
