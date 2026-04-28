@@ -161,8 +161,14 @@ function Home({ searchQuery }) {
                     </div>
 
                     <div className="stock-info">
-                      <span>✓</span>
-                      <span>{product.stock} vagas disponíveis</span>
+                      {product.stock > 0 ? (
+                        <>
+                          <span>✓</span>
+                          <span>{product.stock} vagas disponíveis</span>
+                        </>
+                      ) : (
+                        <span>Out of stock</span>
+                      )}
                     </div>
 
                     <p className="description">{product.description}</p>
